@@ -6,13 +6,13 @@
 
 准备就绪后我们需要找到文件
 
-![image-20230824185734011](iamge/image-20230824185734011.png)
-
 javasec-1.10.jar\BOOT-INF\classes\db.sql
 
 然后我们把它导入到我们的sql数据库中
 
 当然页可以直接复制代码然后去sql里面创建
+
+![image-20230824185734011](iamge/image-20230824185734011.png)
 
 然后打开同级目录的application.properties 
 
